@@ -1,4 +1,4 @@
-# coolspotters
+# team coolspotters
 LifeHack 2024
 
 # CrimeSpotters
