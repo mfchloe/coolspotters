@@ -50,7 +50,6 @@ Distributed under the MIT License.
 - Chong Xuan - @stoopig
 - Chen Xin - @fartingwhales
 - Yi Xhi - @yxhia
-- Project Link: https://github.com/mfchloe/coolspotters-tracker
 
 ## Acknowledgments
 - Leaflet for the map integration
