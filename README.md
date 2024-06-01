@@ -31,6 +31,8 @@ CrimeSpotters is a web application designed to help users identify and visualize
    ```sh
    npm start
 
+7. Open your browser and navigate to http://localhost:3000 to view the application.
+
 ## Usage
 - Use the interactive map to explore different neighbourhoods and view various crime statistics via a dashboard.
 - Select the best route from selected police stations to crime hotspot for patrol route optimisation.
@@ -41,6 +43,7 @@ CrimeSpotters is a web application designed to help users identify and visualize
 - Interactive map with various filters
 - Detailed crime statistics and reports
 - User-friendly interface
+- Real-Time Updates
 
 ## License
 Distributed under the MIT License. 
@@ -49,7 +52,7 @@ Distributed under the MIT License.
 - Chloe - @mfchloe
 - Chong Xuan - @stoopig
 - Chen Xin - @fartingwhales
-- Yi Xhi - @yxhia
+- Yi Xhi - @yxhi
 
 ## Acknowledgments
 - Leaflet for the map integration
