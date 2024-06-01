@@ -43,7 +43,7 @@ CrimeSpotters is a web application designed to help users identify and visualize
 - User-friendly interface
 
 ## License
-Distributed under the MIT License. See LICENSE for more information.
+Distributed under the MIT License. 
 
 ## Contact
 - Chloe - @mfchloe
