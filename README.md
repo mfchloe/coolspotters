@@ -1,7 +1,7 @@
 # team coolspotters
 LifeHack 2024
 
-# CrimeSpotters
+# Project CrimeSpotters
 
 ## Description
 CrimeSpotters is a web application designed to help users identify and visualize crime hotspots in their city. The application provides real-time updates and detailed reports on crime statistics, allowing users to stay informed about safety in their neighborhoods.
